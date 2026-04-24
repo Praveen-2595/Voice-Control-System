@@ -1,0 +1,49 @@
+modes:
+
+  alpha state:
+    sound: assets/sounds/alpha.wav
+    apps:
+      - opera gx
+      - notion
+    websites:
+      - https://pomofocus.io/app
+      - https://music.youtube.com
+      - https://chat.openai.com
+      - https://leetcode.com
+      - https://www.apnacollege.in
+    close:
+      - whatsapp
+      - notepad
+
+  zen state:
+    sound: assets/sounds/zen.wav
+    apps:
+      - opera gx
+      - notion
+    websites:
+      - https://pomofocus.io/app
+      - https://music.youtube.com
+      - https://chat.openai.com
+      - https://gemini.google.com
+    close:
+      - whatsapp
+      - notepad
+
+  render state:
+    apps:
+      - opera gx
+      - after effects
+      - discord
+    websites:
+      - https://music.youtube.com
+      - https://www.youtube.com/results?search_query=after+effects+tutorial
+    close:
+      - whatsapp
+      - notion
+      - notepad
+
+  shutdown:
+    shutdown: true
+
+  gg:
+    sound: assets/sounds/gg_cut.wav
